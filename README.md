@@ -1,4 +1,4 @@
-this is pull excercise
+this is pull excercise 
 # Student Grades Analysis
 
 A simple Python project that reads student grades from a CSV file and prints a
